@@ -45,7 +45,7 @@ with open("practice.txt","r") as f:
         print("not found")
 # check first occurence of word  
 def check_for_line():
-    word = 'learning'
+    word = 'python'
     data = True
     line_no = 1
     with open("practice.txt", "r") as f :
